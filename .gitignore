@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+# Generated outputs - keep the directory, ignore its contents
+reproduce_plots/plots/*
+!reproduce_plots/plots/.gitkeep
+reproduce_results/plots/*
+!reproduce_results/plots/.gitkeep
+reproduce_results/measurements/*
+!reproduce_results/measurements/.gitkeep
